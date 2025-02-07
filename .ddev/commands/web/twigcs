@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## Description: Run twigcs in web/modules/custom
+## Usage: twigcs
+## Example: "twigcs"
+
+vendor/bin/twig-cs-fixer lint --fix web/themes/custom
