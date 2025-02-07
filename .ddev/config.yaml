@@ -1,4 +1,4 @@
-name: DrupalXpert
+name: Blog
 type: drupal
 docroot: web
 php_version: "8.3"
